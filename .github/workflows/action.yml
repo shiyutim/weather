@@ -23,7 +23,7 @@ jobs:
           # username: ${{ secrets.MAILUSERNAME }}
           # password: ${{ secrets.MAILPASSWORD }}
           username: 'shiyutim'
-          password: 'shiyutim11025'
+          password: 'qwe11025'
           subject: Shanghai Weather Report (${{env.REPORT_DATE}})
           body: file://result.html
           to: shiyutim@outlook.com
